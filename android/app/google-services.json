@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "758423681770",
+    "firebase_url": "https://messenger-swiftui-60745-default-rtdb.firebaseio.com",
+    "project_id": "messenger-swiftui-60745",
+    "storage_bucket": "messenger-swiftui-60745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758423681770:android:bdfc0e0d4ed14c746a7593",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61NibJjcpfsIBYMkEqquVJGY9LivjQuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758423681770-55b7nn5qndj9rpok4fl92pd9occdngbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMessagingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758423681770:android:39a909d061b946766a7593",
+        "android_client_info": {
+          "package_name": "com.example.flutter_messaging_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61NibJjcpfsIBYMkEqquVJGY9LivjQuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758423681770-55b7nn5qndj9rpok4fl92pd9occdngbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMessagingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758423681770:android:24ae8474ed17c2706a7593",
+        "android_client_info": {
+          "package_name": "com.example.learning_flavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61NibJjcpfsIBYMkEqquVJGY9LivjQuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758423681770-55b7nn5qndj9rpok4fl92pd9occdngbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMessagingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758423681770:android:bada542923f8a1526a7593",
+        "android_client_info": {
+          "package_name": "com.example.learning_flavor.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61NibJjcpfsIBYMkEqquVJGY9LivjQuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758423681770-55b7nn5qndj9rpok4fl92pd9occdngbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMessagingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758423681770:android:bc3a68d4d2cc8f0f6a7593",
+        "android_client_info": {
+          "package_name": "nith.dev.firebase.config.flutter_firebaseconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61NibJjcpfsIBYMkEqquVJGY9LivjQuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758423681770-brqi5du8jduqgnq5m6lgqpcfqbn4f8k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758423681770-55b7nn5qndj9rpok4fl92pd9occdngbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMessagingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
